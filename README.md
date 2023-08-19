@@ -1,1 +1,1 @@
-# terraform-sonarque
+# terraform-sonarqube
